@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: Data Science Rookie
+locale: en_UK
+description: The journey of a data science rookie from knowing nothing to ...who knows where.
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -36,15 +36,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: John Bell
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: jgbell100@hotmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: john_g_bell
   facebook: #username
-  github: #username
+  github: jgbell100
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: john-bell-475b4b54
   instagram: #username
   flickr: #username
   tumblr: #username
