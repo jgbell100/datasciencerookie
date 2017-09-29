@@ -5,7 +5,7 @@ locale: en_UK
 description: The journey of a data science rookie from knowing nothing to ...who knows where.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://www.datasciencerookie.co.uk
 
 # Jekyll configuration
 

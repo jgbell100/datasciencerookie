@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Short History of a Data Science Rookie. "
+title: "A Short History of a Data Science Rookie."
 modified:
 categories: blog
 share: true
@@ -48,7 +48,7 @@ By the end of it all I was just plain exhausted. I needed to do something differ
 
 And what could be more different than primary teaching? 
 
-After a year of teacher training in London, I moved backed to Scotland and started teaching in a primary school. After the excesses of the tech world adjusting to the quieter working life of a school [XXX] 
+After a year of teacher training in London, I moved backed to Scotland and started teaching in a primary school. After the excesses of working the testosterone-filled tech world of the late '90s, adjusting to the life of a school was an interesting experience. 
 
 Over the past five years or so my interest in technology has resurfaced, and I've started coding again, playing around with new languages, and exploring what's possible with tools such as [Arduino](https://www.arduino.cc/), [Processing](https://processing.org/) and [P5.js](https://p5js.org/).
 

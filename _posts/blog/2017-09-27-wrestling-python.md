@@ -4,8 +4,8 @@ title: "Wrestling Python"
 modified:
 categories: blog
 share: true
-excerpt: I've had a cracking day today coding Python. Here's what I've picked up
-tags: []
+excerpt: I've had a cracking day today coding Python. Here's what I've picked up.
+tags: [coding, python]
 image:
   feature: python.png
 ---
