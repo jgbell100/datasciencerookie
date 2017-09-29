@@ -4,11 +4,16 @@ title: "What Lind Of Data Scientist Do You Want To Be?"
 modified:
 categories: blog
 share: true
-excerpt: 
-tags: []
+excerpt: What skills do data scientists need? Are there different kinds of data scientist? What kind do I want to be? 
+tags: [skills]
 image:
   feature: feature_image5.jpg
 ---
+
+>“Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
+
+[Josh Wills](https://www.linkedin.com/in/josh-wills-13882b/), Director of Data Engineering at Slack
+
 
 During an introductory [What Is Data Science?](http://quarter.cs.stir.ac.uk/courses/ITNPBD4/lectures/1-What%20is%20Data%20Science.pdf) lecture at the start of my course, one of the questions that was raised was '_What are the skills that a data scientist needs?_' (It was also a question posed by [Mark Hunter](https://www.linkedin.com/in/markjhunter/) and [Sandy Scott](https://www.linkedin.com/in/sandy-scott-2912813/) of [Sainsbury's Bank](https://www.sainsburysbank.co.uk/) at the [Data Scientist 2.0 event](http://www.datascientist2-0.com) two weeks ago.)
 
@@ -45,7 +50,7 @@ The chart below shows how the data scientist self-identify. This chart was shown
 
 The one I feel is the best fit for me is that of **Data Creative**. Of course, I've got the next year to figure out what's the best fit for me, but at the moment this is my best guess. 
 
-##Why Data Creative?
+## Why Data Creative?
 
 Well, first off, I think of myself of a creative person. I'm interested in solving problems, specifically problems that impact on people's lives (rather than esoteric, abstract problems - I don't give a hoot about those). I'm the kind of person that asks, _'How could we make this better?'_ I want to use data science to help people improve their lives. I want to use data as a force for good. That takes creativity.
 
