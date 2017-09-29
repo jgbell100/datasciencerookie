@@ -4,14 +4,14 @@ title: "Wrestling Python"
 modified:
 categories: blog
 share: true
-excerpt: I've had a cracking day coding Python today. Here's what I've picked up
+excerpt: I've had a cracking day today coding Python. Here's what I've picked up
 tags: []
 image:
-  feature:
+  feature: python.png
 ---
 
 
-I've had a cracking day coding Python today. I've done a spot of recreational coding with Python before but we've been given a set of exercises as part of our course work to help us get up to speed quickly, and it's been great for building my skills.
+I've had a cracking day today coding Python. I've done a spot of recreational coding with Python before but we've been given a set of exercises as part of our course work to help us get up to speed quickly, and it's been great for building my skills.
 
 I've just looked through my code for the five exercises I've done today and I can actually see an improvement in my code between the first and the last exercise.
 

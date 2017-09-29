@@ -7,7 +7,7 @@ share: true
 excerpt: My potted history, work-wise at least.
 tags: []
 image:
-  feature:
+  feature: feature_image2.jpg
 ---
 
 

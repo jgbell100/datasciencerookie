@@ -7,7 +7,7 @@ share: true
 excerpt: "What I know about data science could written on a postcard. A small postcard. With a large pen."
 tags: []
 image:
-  feature:
+  feature: feature_image1.jpg
 ---
 
 I'm an MSc student studying Big Data at the [University of Stirling](https://www.stir.ac.uk/). What I know about data science could written on a postcard. A small postcard. With a large pen.
