@@ -1,0 +1,75 @@
+[
+
+  
+    {
+      "title"			: "What Kind Of Data Scientist Do You Want To Be?",
+      "link"			: "http://localhost:4000/blog/what-kind-of-data-scientist-do-you-want-to-be/",
+      "excerpt"		: "What skills do data scientists need? Are there different kinds of data scientist? What kind do I want to be?"
+    }
+  
+
+  
+    ,{
+      "title"			: "Wrestling Python",
+      "link"			: "http://localhost:4000/blog/wrestling-python/",
+      "excerpt"		: "I’ve had a cracking day today coding Python. Here’s what I’ve picked up."
+    }
+  
+
+  
+    ,{
+      "title"			: "A Short History of a Data Science Rookie.",
+      "link"			: "http://localhost:4000/blog/potted-history/",
+      "excerpt"		: "My potted history, work-wise at least."
+    }
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "About the Jekyll Theme",
+      "link"			: "http://localhost:4000/temp/",
+      "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
+    }
+  
+
+  
+    ,{
+      "title"			: "Theme Setup",
+      "link"			: "http://localhost:4000/theme-setup/",
+      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
+    }
+  
+
+  
+    ,{
+      "title"			: "About",
+      "link"			: "http://localhost:4000/about/",
+      "excerpt"		: "What I know about data science could written on a postcard. A small postcard. With a large pen."
+    }
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+]

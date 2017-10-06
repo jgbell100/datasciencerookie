@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Lind Of Data Scientist Do You Want To Be?"
+title: "What Kind Of Data Scientist Do You Want To Be?"
 modified:
 categories: blog
 share: true
