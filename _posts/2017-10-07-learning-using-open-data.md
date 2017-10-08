@@ -67,9 +67,9 @@ My intrepretation of the data and my results left a lot to be desired but hopefu
 
 
 
-<sup>1</sup>half-days on which pupils participate in the programme of educational acvities, arranged by the school, within or outside of the school environment.
+<sup>1</sup>half-days on which pupils participate in the programme of educational activities, arranged by the school, within or outside of the school environment.
 
-<sup>2</sup>based on current information - no historical information about 204-2005 to support this.
+<sup>2</sup>based on current information - no historical information about 2004-2005 to support this.
 
 
 
