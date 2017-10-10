@@ -1,4 +1,5 @@
 ---
+author: john_bell
 layout: post
 title: "Wrestling Python"
 modified:

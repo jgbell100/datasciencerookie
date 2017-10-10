@@ -1,4 +1,5 @@
 ---
+author: john_bell
 layout: post
 title: "A Short History of a Data Science Rookie."
 modified:
