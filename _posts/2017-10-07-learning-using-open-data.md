@@ -48,7 +48,7 @@ But I started thinking that I didn't want to invest more time into learning Java
 
 I don't have a great deal of confidence in my current knowledge of data analysis or stats so I'll hold back on naming the school which had the highest percentage of absences. Let's call it 'Springfield Primary'.
 
-What I found out was that 5.94% of pupil half-days<sup>1</sup> in Springfield Primary were .
+What I found out was that 5.94% of pupil half-days<sup>1</sup> in Springfield Primary were marked as absences.
 
 At first I questioned this figure. It was almost 1% greater than the second highest-ranking school. But how different was it from the mean? 
 
