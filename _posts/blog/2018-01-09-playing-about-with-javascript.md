@@ -4,7 +4,7 @@ title: "Playing About With JavaScript"
 modified:
 categories: blog
 share: true
-excerpt: ""
+excerpt: "An off-topic post on recreational, creative coding with P5.js, the JavaScript library for visual artists and designers."
 tags: [coding, javascript, P5.js]
 image:
   feature: feature_image9.jpg
