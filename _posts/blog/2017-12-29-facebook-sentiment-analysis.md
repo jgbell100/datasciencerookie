@@ -34,7 +34,7 @@ I choose to do this because it:
 * would give me a chance to learn about something completely new i.e. sentiment analysis
 
 
-In this post, I'll share the method I adopted on this task, and at the end, tell you how I could have done much more easily!
+In this post, I'll share the method I adopted on this task, and at the end, tell you how I could have done it much more easily!
 
 # Background
 
