@@ -74,16 +74,16 @@ You get to experience the deep pleasure in seeing a young person blossom and kno
 
 You get the satisfaction of knowing that you've possibly changed the course of a young person's life by opening their eyes to a career they could pursue.
 
-You'll get to meet a load of fellow coding enthusiasts. We're a lovely bunch! 
+You'll get to meet a load of fellow coding enthusiasts. We're a lovely bunch! (Speaking for myself, I've had the chance to work with so many nice lovely people through CoderDojo, and made many new friends.) 
 
-If you're anything like me, you'll learn a lot of new things yourself! (Speaking for myself, I've had the chance to work with so many nice lovely people through CoderDojo, and made many new friends.) 
+If you're anything like me, you'll learn a lot of new things yourself! 
 
 Finally, it's fun! It's not just the young people who get to be creative and have a chance to play!
 
 
 # Want to find out more?
 
-I hope this post has given you a sense of what CoderDojo is all about and why I'd definitely recommend getting involved. And if you're thinking 'mmm...sounds good  but I'm 
+I hope this post has given you a sense of what CoderDojo is all about and why I'd definitely recommend getting involved. And if you're thinking 'mmm...sounds good but I'm really not that technical and don't know if I've got enough to share', don't let that put you off. There's a huge range of experience within the CoderDojo mentor community, and all are welcome. You'll be given lots of support from the other mentors.
 
 If you want to find out more, check out CoderDojo Scotland's [volunteer page](http://coderdojoscotland.com/volunteer). 
 
