@@ -122,7 +122,7 @@ It's when things seem worst that you must not quit!'.
 
 Cheerio and Good luck! 
 
-![]({{ "/images/anita_george.jpg" | absolute_url }})
+![]({{ "/images/anita_george.png" | absolute_url }})
 
 ___
 
