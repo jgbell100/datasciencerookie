@@ -12,7 +12,7 @@ image:
 ---
 
 
-I'm currently studing for an MSc in Big Data at the [University of Stirling](https://www.stir.ac.uk/), but I've done other stuff too. Here's my potted history, work-wise at least.
+I'm currently studying for an MSc in Big Data at the [University of Stirling](https://www.stir.ac.uk/), but I've done other stuff too. Here's my potted history, work-wise at least.
 
 ## Dot com days, dot com nights
 
